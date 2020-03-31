@@ -7,7 +7,7 @@
                 :searchable="true"
                 track-by="value"
                 label="label"
-                placeholder="Pick a value"
+                placeholder=""
                 @input="onChange">
             </multiselect>
         </template>
